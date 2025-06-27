@@ -1,6 +1,6 @@
 ## Olá, Meu nome é Kezia, e sou uma futura cientista de dados! 👩🏻‍💻
 
-Tenho 30 anos e sou mineira e apaixonada por tecnologia. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Uniasselvi, e pretendo cursar uma pós em ciência de dados em breve. EStou migrando da Administração para TI, pois foi amor ao primeiro "Hello World".
+Tenho 30 anos, sou mineira e apaixonada por tecnologia. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Uniasselvi, e pretendo cursar uma pós em ciência de dados em breve. EStou migrando da Administração para TI, pois foi amor ao primeiro "Hello World".
   
   ##
  
